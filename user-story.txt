@@ -1,0 +1,6 @@
+1. Able to zoom in/out the target paper
+2. Able to drop dot anywhere on the target paper, locations need to be precise.
+3. Able to hold to create a temporary dot, which is draggable.
+    Interaction still valid while dragging, and release interaction when dragging is released
+4. Calculate and update-draw one enclosing circle every time a dot is added, including the temporary dot, which will make the circle dynamic.
+5. Highlight the corresponding ring that the temporary dot is dragged to.
