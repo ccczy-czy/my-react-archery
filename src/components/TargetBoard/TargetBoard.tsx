@@ -458,7 +458,6 @@ export default function TargetBoard() {
         time: Date.now(),
         longPress: false,
       });
-      // Start long press timer
       const timer = window.setTimeout(() => {
         const { x: tx, y: ty } = screenToTarget(x, y);
         const newTemporaryDot: Dot = {
