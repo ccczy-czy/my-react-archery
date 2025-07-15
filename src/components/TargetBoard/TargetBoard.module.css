@@ -7,4 +7,10 @@
     margin: 0;
     padding: 0;
     background-color: #bdbdbd;
+    touch-action: none;
+    overflow: hidden;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
 }

@@ -19,4 +19,13 @@ const ringGap = 18;
 
 const dotRadius = 7;
 
-export { dotRadius, initialRingRadius, ringColors, ringGap, boardSize };
+const LONG_PRESS_DURATION = 500;
+
+export {
+  dotRadius,
+  initialRingRadius,
+  ringColors,
+  ringGap,
+  boardSize,
+  LONG_PRESS_DURATION,
+};

@@ -15,7 +15,6 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.30.1",
-    "@types/hammerjs": "^2.0.46",
     "@types/react": "^19.1.8",
     "@types/react-dom": "^19.1.6",
     "@vitejs/plugin-react": "^4.6.0",
@@ -23,9 +22,6 @@
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.20",
     "globals": "^16.3.0",
-    "hammerjs": "^2.0.8",
-    "konva": "^9.3.22",
-    "react-konva": "^19.0.7",
     "typescript": "~5.8.3",
     "typescript-eslint": "^8.35.1",
     "uuid": "^11.1.0",
